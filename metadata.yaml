@@ -1,0 +1,29 @@
+_repo: Zarah-the-Cruel_61014
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Conquest, Joan
+    alias: Cooke, Joan Conquest
+    birthdate: 1883
+    deathdate: 1941
+    gutenberg_agent_id: '5938'
+    url: http://www.gutenberg.org/2009/agents/5938
+description: ''
+gutenberg_issued: '2019-12-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61014'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Adventure stories'
+- !lcsh 'Triangles (Interpersonal relations) -- Fiction'
+- !lcsh 'Arabian Peninsula -- Fiction'
+- !lcsh 'Cruelty -- Fiction'
+- GITenberg
+title: Zarah the Cruel
+url: http://www.gutenberg.org/ebooks/61014
